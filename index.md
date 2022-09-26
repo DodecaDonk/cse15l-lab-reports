@@ -23,12 +23,26 @@ Language Proficiency
 - Korean
 - English
 
-Hobbies 
-- Listening to **1980s-1990s Japanese City Pop (Miki Matsubara)**
-- Listening to **Romantic Classical Music (Johann Strauss II)**
-- Playing **Valorant (I main Neon)**
-- Playing **Apex Legends** 
-- Playing **Europa Universalis IV**
-- Playing **Hearts of Iron IV**
-- 
+Favorite Hobbies 
+1. Listening to City Pop and Romantical Classic (Miki Matsubara and Johann Strauss II)
+2. Playing Apex Legends [(My clips are posted on my Youtube channel)](https://www.youtube.com/channel/UCM4uf25e0-sVHMLxFq6bQgA)
+3. Learning languages (I greatly enjoy learning German)
 
+`public static String test(){
+  return("Hello World!");
+}`
+
+```
+public static int factorials(int num){
+    int sum = 1;
+    for(int i = num; i > 0; i--){
+        sum *= i;
+    }
+    return sum;
+}
+```
+
+
+
+
+![Image](https://media.discordapp.net/attachments/558816021444558869/1019863677895200798/unknown.png)
