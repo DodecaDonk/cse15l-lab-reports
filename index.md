@@ -1,4 +1,7 @@
 # Daniel Yoon
+
+## Lab Reports
+- [Lab Report 1](https://dodecadonk.github.io/cse15l-lab-reports/lab-report-1-week-0.html)
 ---
 - Born in Seoul, South Korea
 - Lives in San Diego, California 
