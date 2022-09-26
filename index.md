@@ -2,25 +2,24 @@
 
 ## Lab Reports
 - [Lab Report 1](https://dodecadonk.github.io/cse15l-lab-reports/lab-report-1-week-0.html)
----
+
 - Born in Seoul, South Korea
 - Lives in San Diego, California 
 - Work Study Eligible
 
 ## Relevant Experience
---- 
+
 - CSE8A/8B
 - CSE12 (*in progress*)
 - CSE15L (*in progress*)
 - Proficient in Java and Python.
 
 ## Projects 
----
+
 - CSE8B Programming Assignments 
 - Gender, Number, and Case Tool for German
 
 ## Other
---- 
 Language Proficiency
 - German
 - Korean
