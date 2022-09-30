@@ -72,6 +72,7 @@
        - I have made a new directory named "Fortnite" in the home directory "cs15lfa22ks". 
 
 ## Moving Files with `scp`
+---
 - It is possible to move files from your local machine onto the remote machine using the command `scp`
     - `scp` stands for secure copy. 
 - Identify the file you will be transferring from your local machine onto the remote machine. For our example, we will be using the file "hello.java". 
@@ -89,6 +90,7 @@
     ![Image](Screenshot_18.png)
 
 ## Setting an SSH Key
+---
 - A time-saving alternative to inputting your password in every time you log into the remote server is the Secure Shell key.
 - Secure shell keys allow you to log into the remote machine without being prompted with a password. 
 - To create an ssh key, ensure that you are logged out of your remote machine and you are currently on your local machine. 
@@ -120,7 +122,7 @@
 - After this is completed, you will be able to access the remote machine without being prompted for a password.
 
 ## Optimizing Remote Running
-
+---
 - Instead of having to log back into the remote machine, have two terminals open. One for the local machine, one for the remote machine. 
 
     ![Image](Screenshot_25.png)
