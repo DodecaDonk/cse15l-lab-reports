@@ -5,6 +5,7 @@
     - The formatting of the grep command follows as is: grep -options "Character Pattern" fileToSearch.txt
     - Multiple file locations can be "grepped" by appending another file location to the command, or using the * operators. 
     - grep does not work on directories. 
+
 ## The 'grep' command: Option -i
 - The -i option ignores case sensitivity. 
     - It is useful when the word you are searching for may be at the front of the sentence, and thus capitalized. 
